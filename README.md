@@ -58,6 +58,9 @@ In this survey, we present the survey on Multi-modal Body Language research.
 
 ![Alt Text](Outline-paper.png)-->
 
+
+
+
 # 🔥 Introduction
 
 In this survey, we present the recent papers on Multi-modal Body Language research.
@@ -80,6 +83,7 @@ In this survey, we present the recent papers on Multi-modal Body Language resear
 [//]: # (  )
 
 # 🔥 Paper-List
+* **Recognition**
 
 #### Sign Language Recognition
 
@@ -123,7 +127,7 @@ In this survey, we present the recent papers on Multi-modal Body Language resear
 | 2021 | ACM MM | Böck et al. | [Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning](https://dl.acm.org/doi/abs/10.1145/3474085.3475223) | N/A |
 
 
-
+* **Generation**
 #### Sign Language Generation
 
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
