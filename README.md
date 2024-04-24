@@ -52,11 +52,11 @@ We will check the problems and add the missing papers to this repo ASAP. -->
 
 [4] Some new insight for this directions are discussed.-->
 
-## Introduction
+<!--## Introduction
 
 In this survey, we present the survey on Multi-modal Body Language research.
 
-![Alt Text](Outline-paper.png)
+![Alt Text](Outline-paper.png)-->
 
 ## Summary of Contents
 
