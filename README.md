@@ -220,23 +220,3 @@ In this survey, we present the survey on Multi-modal Body Language research.
 | 2023 | Co-speech  Generation | English |  GENEA Challenge 2023 |  [link](https://genea-workshop.github.io/2023/#gesture-generation-challenge) |
 
 
-## Acknowledgement
-
-If you find our survey and repository useful for your research project, please consider citing our paper:
-
-```bibtex
-@article{liu2023blsurvey,
-  title={A Survey on Deep Multi-modal Learning for Body Language Recognition and Generation},
-  author={Liu, Li and Lufei, Gao  and Wentao, Lei and Fengji, Ma and Xiaotian, Lin and Jinting, Wang },
-  journal={arXiv:2308.08849},
-  year={2023}
-}
-```
-## Contact
-```
-avrillliu@hkust-gz.edu.cn
-```
-```
-wlei117@connect.hkust-gz.edu.cn
-```
-
