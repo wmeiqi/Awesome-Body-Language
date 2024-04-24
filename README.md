@@ -58,7 +58,7 @@ In this survey, we present the survey on Multi-modal Body Language research.
 
 ![Alt Text](Outline-paper.png)-->
 
-## Summary of Contents
+# 🔥 Summary of Contents
 
 - [Paper List](#Paper-List)
   - [Recognition](#Recognition)
@@ -75,7 +75,7 @@ In this survey, we present the survey on Multi-modal Body Language research.
 
 [//]: # (  )
 
-## Paper-List
+# 🔥 Paper-List
 
 ### Cued Speech Recognition
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
