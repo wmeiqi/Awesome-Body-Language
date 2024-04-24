@@ -35,7 +35,7 @@
 This repo is used for recording and tracking some Multi-modal Body Language researchs,
 as a supplement to our [survey](https://arxiv.org/abs/2308.08849).  
 If you find any work missing or have any suggestions (papers, implementations and other resources), please don't hesitate to open an issue or pull request or just contact us by e-mail.
-We will check the problems and add the missing papers to this repo ASAP.
+We will check the problems and add the missing papers to this repo ASAP. -->
 
 
 ### 🔥News
@@ -50,7 +50,7 @@ We will check the problems and add the missing papers to this repo ASAP.
 
 [3] We survey the research in 2 directions: Recognition and Generation.
 
-[4] Some new insight for this directions are discussed.-->
+[4] Some new insight for this directions are discussed.
 
 
 ## Introduction
