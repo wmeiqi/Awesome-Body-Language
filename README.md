@@ -66,20 +66,38 @@ In this survey, we present the recent papers on Multi-modal Body Language resear
 
 - [Paper List](#Paper-List)
   - [Recognition](#Recognition)
+    - [Sign Language Recognition](#Sign-Language-Recognition)
     - [Cued Speech Recognition](#Cued-Speech-Recognition)
     - [Co-speech Recognition](#Co-speech-Recognition)
-    - [Sign Language Recognition](#Sign-Language-Recognition)
     - [Talking Head Recognition](#Talking-Head-Recognition)
   - [Generation](#Generation)
+    - [Sign Language Generation](#Co-Language-Generation)
     - [Cued Speech Generation](#Cued-Speech-Generation)
     - [Co-speech Generation](#Co-speech-Generation)
-    - [Sign Language Generation](#Co-Language-Generation)
     - [Talking Head Generation](#Talking-Head-Generation)
   - [Challenges](#Challenges)
 
 [//]: # (  )
 
 # 🔥 Paper-List
+
+#### Sign Language Recognition
+
+| Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
+|:----:|:-------:|:---------------:|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| 2019 |  ICIP   |  Zhang et al.   | [Continuous Sign Language Recognition via Reinforcement Learning](https://ieeexplore.ieee.org/document/8802972)                                     | N/A             |
+| 2020 |  ECAI   |  Zhou et al. | [Self-Attention-based Fully-Inception Networks for Continuous Sign Language Recognition](https://ieeexplore.ieee.org/document/8802972) |  N/A   |
+| 2020 | ICASSP |   Li et al. | [Key Action and Joint CTC-Attention based Sign Language Recognition](https://ieeexplore.ieee.org/abstract/document/9054316) |  N/A  |
+| 2020 | ECCV  | Cheng et al. | [Fully Convolutional Networks for Continuous Sign Language Recognition](https://link.springer.com/chapter/10.1007/978-3-030-58586-0_41)  | N/A |
+| 2020 | ECCV | Niu et al. | [Stochastic Fine-Grained Labeling of Multi-state Sign Glosses for Continuous Sign Language Recognition](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_11)  | N/A |
+| 2021 | ICPR | Koishybay et al. | [Continuous Sign Language Recognition with Iterative Spatiotemporal Fine-tuning](https://ieeexplore.ieee.org/abstract/document/9412364) | N/A|
+| 2022 | CVPR | Zuo et al. | [C2SLR: Consistency-Enhanced Continuous Sign Language Recognition](https://openaccess.thecvf.com/content/CVPR2022/html/Zuo_C2SLR_Consistency-Enhanced_Continuous_Sign_Language_Recognition_CVPR_2022_paper.html) | N/A |
+| 2022 | IEEE Transactions on Multimedia | Zhou et al. | [Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation](https://ieeexplore.ieee.org/abstract/document/9354538) | N/A |
+| 2022 | NeurIPS | Chen et al. | [Two-Stream Network for Sign Language Recognition and Translation](https://proceedings.neurips.cc/paper_files/paper/2022/file/6cd3ac24cdb789beeaa9f7145670fcae-Paper-Conference.pdf) | N/A |
+| 2023 | CVPR | Zheng et al. | [CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition With Variational Alignment](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html) | [Code](https://github.com/binbinjiang/CVT-SLR) |
+| 2023 | TPAMI | Bilge et al. | [Towards Zero-Shot Sign Language Recognition](https://ieeexplore.ieee.org/abstract/document/9681230) | N/A |
+| 2023 | AAAI | Hu et al. | [Self-Emphasizing Network for Continuous Sign Language Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/25164) | [Code](https://github.com/hulianyuyy/SEN_CSLR) |
+
 
 ### Cued Speech Recognition
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
@@ -105,24 +123,19 @@ In this survey, we present the recent papers on Multi-modal Body Language resear
 | 2021 | ACM MM | Böck et al. | [Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning](https://dl.acm.org/doi/abs/10.1145/3474085.3475223) | N/A |
 
 
-#### Sign Language Recognition
+
+#### Sign Language Generation
 
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
 |:----:|:-------:|:---------------:|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| 2019 |  ICIP   |  Zhang et al.   | [Continuous Sign Language Recognition via Reinforcement Learning](https://ieeexplore.ieee.org/document/8802972)                                     | N/A             |
-| 2020 |  ECAI   |  Zhou et al. | [Self-Attention-based Fully-Inception Networks for Continuous Sign Language Recognition](https://ieeexplore.ieee.org/document/8802972) |  N/A   |
-| 2020 | ICASSP |   Li et al. | [Key Action and Joint CTC-Attention based Sign Language Recognition](https://ieeexplore.ieee.org/abstract/document/9054316) |  N/A  |
-| 2020 | ECCV  | Cheng et al. | [Fully Convolutional Networks for Continuous Sign Language Recognition](https://link.springer.com/chapter/10.1007/978-3-030-58586-0_41)  | N/A |
-| 2020 | ECCV | Niu et al. | [Stochastic Fine-Grained Labeling of Multi-state Sign Glosses for Continuous Sign Language Recognition](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_11)  | N/A |
-| 2021 | ICPR | Koishybay et al. | [Continuous Sign Language Recognition with Iterative Spatiotemporal Fine-tuning](https://ieeexplore.ieee.org/abstract/document/9412364) | N/A|
-| 2022 | CVPR | Zuo et al. | [C2SLR: Consistency-Enhanced Continuous Sign Language Recognition](https://openaccess.thecvf.com/content/CVPR2022/html/Zuo_C2SLR_Consistency-Enhanced_Continuous_Sign_Language_Recognition_CVPR_2022_paper.html) | N/A |
-| 2022 | IEEE Transactions on Multimedia | Zhou et al. | [Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation](https://ieeexplore.ieee.org/abstract/document/9354538) | N/A |
-| 2022 | NeurIPS | Chen et al. | [Two-Stream Network for Sign Language Recognition and Translation](https://proceedings.neurips.cc/paper_files/paper/2022/file/6cd3ac24cdb789beeaa9f7145670fcae-Paper-Conference.pdf) | N/A |
-| 2023 | CVPR | Zheng et al. | [CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition With Variational Alignment](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html) | [Code](https://github.com/binbinjiang/CVT-SLR) |
-| 2023 | TPAMI | Bilge et al. | [Towards Zero-Shot Sign Language Recognition](https://ieeexplore.ieee.org/abstract/document/9681230) | N/A |
-| 2023 | AAAI | Hu et al. | [Self-Emphasizing Network for Continuous Sign Language Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/25164) | [Code](https://github.com/hulianyuyy/SEN_CSLR) |
-
-
+| 2016 |  Universal Access in the Information Society   |      Sign3D     | [Interactive editing in French Sign Language dedicated to virtual signers: requirements and challenges](https://link.springer.com/article/10.1007/s10209-015-0411-6)                                     | N/A|
+| 2018 |  AAAI   |      DETR       | [Hierarchical LSTM for Sign Language Translation](https://arxiv.org/abs/2005.12872)                                    | N/A              |
+|  2020          |    IJCV         |    text2gesture             | [Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks](https://link.springer.com/article/10.1007/s11263-019-01281-2)                                                                                                 |  N/A           |
+|  2020  |    CVPR    |    ESN       |    [Everybody Sign Now:Translating Spoken Language to Photo Realistic Sign Language Video](https://arxiv.org/pdf/2011.09846.pdf)                                                                                                             |      N/A            |
+| 2020     |    BMVC   |    Saunders et al.|                         [Adversarial Training for Multi-Channel Sign Language Production](https://arxiv.org/pdf/2008.12405.pdf)                                                                                           |    N/A   |
+| 2022  |    ACL  |     DSM        |              [Modeling Intensification for Sign Language Generation: A Computational Approach](https://arxiv.org/abs/2203.09679)                                                                                                    |        [Code](https://github.com/Merterm/Modeling-Intensification-for-SLG)          |
+|  2022  |  CVPR   |      SignGAN    |    [Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production](https://arxiv.org/abs/2203.15354)          |       N/A                                           |
+| 2023  |   CVPR   |    PoseVQ-Diffusion     |  [Vector Quantized Diffusion Model with CodeUnet for Text-to-Sign Pose Sequences Generation](https://arxiv.org/abs/2208.09141)                                                                                  |    [Code](https://github.com/cientgu/VQ-Diffusion)                                                          |
 
 #### Cued Speech Generation
 
@@ -143,18 +156,7 @@ In this survey, we present the recent papers on Multi-modal Body Language resear
 |  2022  |   CVPR    |         DiffGAN             |        [Low-Resource Adaptation for Personalized Co-Speech Gesture Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ahuja_Low-Resource_Adaptation_for_Personalized_Co-Speech_Gesture_Generation_CVPR_2022_paper.pdf)                    |    N/A
 |  2022  |   SIGGRAPH Asia    |          RG            |       [Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://arxiv.org/abs/2210.01448)                |  [Code](https://github.com/Aubrey-ao/HumanBehaviorAnimation)
 
-#### Sign Language Generation
 
-| Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
-|:----:|:-------:|:---------------:|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| 2016 |  Universal Access in the Information Society   |      Sign3D     | [Interactive editing in French Sign Language dedicated to virtual signers: requirements and challenges](https://link.springer.com/article/10.1007/s10209-015-0411-6)                                     | N/A|
-| 2018 |  AAAI   |      DETR       | [Hierarchical LSTM for Sign Language Translation](https://arxiv.org/abs/2005.12872)                                    | N/A              |
-|  2020          |    IJCV         |    text2gesture             | [Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks](https://link.springer.com/article/10.1007/s11263-019-01281-2)                                                                                                 |  N/A           |
-|  2020  |    CVPR    |    ESN       |    [Everybody Sign Now:Translating Spoken Language to Photo Realistic Sign Language Video](https://arxiv.org/pdf/2011.09846.pdf)                                                                                                             |      N/A            |
-| 2020     |    BMVC   |    Saunders et al.|                         [Adversarial Training for Multi-Channel Sign Language Production](https://arxiv.org/pdf/2008.12405.pdf)                                                                                           |    N/A   |
-| 2022  |    ACL  |     DSM        |              [Modeling Intensification for Sign Language Generation: A Computational Approach](https://arxiv.org/abs/2203.09679)                                                                                                    |        [Code](https://github.com/Merterm/Modeling-Intensification-for-SLG)          |
-|  2022  |  CVPR   |      SignGAN    |    [Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production](https://arxiv.org/abs/2203.15354)          |       N/A                                           |
-| 2023  |   CVPR   |    PoseVQ-Diffusion     |  [Vector Quantized Diffusion Model with CodeUnet for Text-to-Sign Pose Sequences Generation](https://arxiv.org/abs/2208.09141)                                                                                  |    [Code](https://github.com/cientgu/VQ-Diffusion)                                                          |
 #### Talking Head Generation
 
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
