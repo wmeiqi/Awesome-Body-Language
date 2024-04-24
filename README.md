@@ -38,7 +38,7 @@ If you find any work missing or have any suggestions (papers, implementations an
 We will check the problems and add the missing papers to this repo ASAP. -->
 
 
-### 🔥News
+<!--### 🔥News
 
 [-2023.8.17 ] The first draft is on arxiv. 
 
@@ -50,8 +50,7 @@ We will check the problems and add the missing papers to this repo ASAP. -->
 
 [3] We survey the research in 2 directions: Recognition and Generation.
 
-[4] Some new insight for this directions are discussed.
-
+[4] Some new insight for this directions are discussed.-->
 
 ## Introduction
 
