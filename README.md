@@ -83,7 +83,7 @@ In this survey, we present the recent papers on Multi-modal Body Language resear
 [//]: # (  )
 
 # 🔥 Paper-List
-* **Recognition**
+## **Recognition**
 
 #### Sign Language Recognition
 
@@ -103,7 +103,7 @@ In this survey, we present the recent papers on Multi-modal Body Language resear
 | 2023 | AAAI | Hu et al. | [Self-Emphasizing Network for Continuous Sign Language Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/25164) | [Code](https://github.com/hulianyuyy/SEN_CSLR) |
 
 
-### Cued Speech Recognition
+#### Cued Speech Recognition
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
 |:----:|:-------:|:---------------:|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | 2010 | Speech Communication | Heracleous et al. | [Cued speech automatic recognition in normal-hearing and deaf subjects](https://www.sciencedirect.com/science/article/abs/pii/S0167639310000415) | N/A |
@@ -127,7 +127,8 @@ In this survey, we present the recent papers on Multi-modal Body Language resear
 | 2021 | ACM MM | Böck et al. | [Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning](https://dl.acm.org/doi/abs/10.1145/3474085.3475223) | N/A |
 
 
-* **Generation**
+## **Generation**
+
 #### Sign Language Generation
 
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
@@ -141,12 +142,15 @@ In this survey, we present the recent papers on Multi-modal Body Language resear
 |  2022  |  CVPR   |      SignGAN    |    [Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production](https://arxiv.org/abs/2203.15354)          |       N/A                                           |
 | 2023  |   CVPR   |    PoseVQ-Diffusion     |  [Vector Quantized Diffusion Model with CodeUnet for Text-to-Sign Pose Sequences Generation](https://arxiv.org/abs/2208.09141)                                                                                  |    [Code](https://github.com/cientgu/VQ-Diffusion)                                                          |
 
+
 #### Cued Speech Generation
 
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
 |:----:|:-------:|:---------------:|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 |  1998  |  ISCA  | Paul et al.     |    [Automatic Generation of Cued Speech for The Deaf: Status and Outlook](https://isca-speech.org/archive_open/archive_papers/avsp98/av98_161.pdf)                                                                                       |  N/A                                                         |
 |  2008 |   AVSP   |  G ́erard et al.     |    [Retargeting cued speech hand gestures for different talking heads and speakers](https://www.isca-speech.org/archive/avsp_2008/bailly08b_avsp.html)                                                                      |                  N/A                                     |
+
+
 #### Co Speech Generation
 
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
@@ -159,6 +163,7 @@ In this survey, we present the recent papers on Multi-modal Body Language resear
 |  2022  | Computer Graphics Forum |        ZeroEGGS             |   [ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech](https://onlinelibrary.wiley.com/doi/10.1111/cgf.14734)      |   [Code](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS)
 |  2022  |   CVPR    |         DiffGAN             |        [Low-Resource Adaptation for Personalized Co-Speech Gesture Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ahuja_Low-Resource_Adaptation_for_Personalized_Co-Speech_Gesture_Generation_CVPR_2022_paper.pdf)                    |    N/A
 |  2022  |   SIGGRAPH Asia    |          RG            |       [Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://arxiv.org/abs/2210.01448)                |  [Code](https://github.com/Aubrey-ao/HumanBehaviorAnimation)
+
 
 
 #### Talking Head Generation
@@ -214,7 +219,8 @@ In this survey, we present the recent papers on Multi-modal Body Language resear
 |   2023 |  CVPR  |   DiffTalk  |  [DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation](https://openaccess.thecvf.com/content/CVPR2023/html/Shen_DiffTalk_Crafting_Diffusion_Models_for_Generalized_Audio-Driven_Portraits_Animation_CVPR_2023_paper.html)|  [Code](https://sstzal.github.io/DiffTalk/)|
 |   2023 |  CoRR  |       |   [Multimodal-driven Talking Face Generation via a Unified Diffusion-based Generator](https://zst1406217.github.io/home_page_files/Multimodal-driven%20Talking%20Face%20Generation.pdf)|  N/A|
 
-#### Challenges
+
+## **Challenges**
 
 | Year |     Task       |   Language     |  Name     | Link                                                 |
 | :--: | :------------: | :---------:   |:---------: | ------------------------------------------------------------ |
